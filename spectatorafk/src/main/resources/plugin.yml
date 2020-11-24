@@ -1,0 +1,6 @@
+name: SpectatorAFK
+version: ${project.version}
+description: ${project.description}
+author: Linus122
+main: xyz.spaceio.spectatorafk.Main
+api-version: 1.13
