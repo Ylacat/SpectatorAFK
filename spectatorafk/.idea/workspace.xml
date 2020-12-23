@@ -22,7 +22,12 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f57080e1-5db2-47fa-b3c3-643024a90d02" name="Default Changelist" comment="" />
+    <list default="true" id="f57080e1-5db2-47fa-b3c3-643024a90d02" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_spigotmc_spigot_api_1_16_4_R0_1_SNAPSHOT.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_spigotmc_spigot_api_1_16_4_R0_1_SNAPSHOT.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpectatorAFK.iml" beforeDir="false" afterPath="$PROJECT_DIR$/SpectatorAFK.iml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -34,13 +39,6 @@
   <component name="KubernetesApiPersistence">
     <option name="context" value="docker-desktop" />
     <option name="namespace" value="default" />
-  </component>
-  <component name="MavenImportPreferences">
-    <option name="generalSettings">
-      <MavenGeneralSettings>
-        <option name="mavenHome" value="C:\Users\Tacaly\AppData\Local\JetBrains\Toolbox\apps\IDEA-U\ch-0\202.7660.26\plugins\maven\lib\maven3" />
-      </MavenGeneralSettings>
-    </option>
   </component>
   <component name="ProjectId" id="1kWPYYed3n6rnJNeTUECro7IQSI" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -94,6 +92,8 @@
       <option name="presentableId" value="Default" />
       <updated>1605813423642</updated>
       <workItem from="1605813424680" duration="2952000" />
+      <workItem from="1608591442812" duration="84000" />
+      <workItem from="1608591569849" duration="1347000" />
     </task>
     <servers />
   </component>
@@ -110,6 +110,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
     <state x="414" y="174" width="1105" height="691" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1605813686291">
